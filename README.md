@@ -12,3 +12,9 @@ Kelas : TI.22.A.5
 
 # sebelum kita ingin men-submit kita harus mengisi terlebih dahulu form yang tertera
 ![image](https://github.com/user-attachments/assets/56ccbb96-7d63-4444-9acb-5026ff316544)
+
+![Screenshot 2024-11-07 164909](https://github.com/user-attachments/assets/921ddff7-4d5f-42c8-aeec-28faf8d1a31e)
+
+![Screenshot 2024-11-07 165107](https://github.com/user-attachments/assets/0a077977-a4d3-4305-8f36-120aa95f41db)
+
+[UTS Pemrograman Visual.pdf](https://github.com/user-attachments/files/17659492/UTS.Pemrograman.Visual.pdf)
